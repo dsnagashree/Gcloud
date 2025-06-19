@@ -245,13 +245,12 @@ gcloud ai models list --region=us-central1
 4. Add tests
 5. Submit a pull request
 
-## License
-[Specify your license]
+
 
 ## Contact
-- **Maintainer**: [Your name/team]
-- **Email**: [your-email@domain.com]
-- **Project Repository**: [GitHub/GitLab URL]
+- **Maintainer**: Nagashree DS
+- **Email**: naagukashyap@domain.com
+- **Project Repository**: https://github.com/dsnagashree
 
 ## Version History
 - **v1.0.0**: Initial model deployment
